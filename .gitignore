@@ -1,0 +1,4 @@
+*.yaml
+*.yml
+*.blockmap
+win-unpacked/
